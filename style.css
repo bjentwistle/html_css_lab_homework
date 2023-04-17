@@ -1,0 +1,44 @@
+#comments_box {
+    width: 95%;
+    height: 48px;
+}
+
+body > header{
+    padding: 5px;
+    background-color: dodgerblue;
+    color: white;
+}
+
+body > footer{
+    padding: 5px;
+    background-color: dodgerblue;
+    color: white;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body > header > nav > ul {
+    list-style: None;
+    
+}
+
+body > header > nav > ul > li > a {
+    color: white;
+    
+}
+
+body > main > article {
+    margin: auto;
+    width: 70%;
+}
+
+.right {
+    margin-left:425px;
+    
+}
+
+body > footer {
+    text-align: center;
+}
